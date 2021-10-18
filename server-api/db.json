@@ -1,0 +1,33 @@
+{
+  "users": [
+    {
+      "name": "Milad Ra",
+      "email": "milad.rahimi1412@gmail.com",
+      "phoneNumber": "09111111111",
+      "passwordConfirm": "aaa",
+      "password": "aaa",
+      "gender": "0",
+      "country": "Iran",
+      "interests": [
+        "react"
+      ],
+      "terms": true,
+      "id": 1
+    },
+    {
+      "name": "Milad Ra",
+      "email": "milad.rahimi1412@gmail.com",
+      "phoneNumber": "09111111111",
+      "passwordConfirm": "aaa",
+      "password": "aaa",
+      "gender": "0",
+      "country": "Iran",
+      "interests": [
+        "react",
+        "vue"
+      ],
+      "terms": true,
+      "id": 2
+    }
+  ]
+}
